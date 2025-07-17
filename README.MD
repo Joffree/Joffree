@@ -1,39 +1,66 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<!-- Banner ou imagem de topo inspirada no Fiori -->
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/60/SAP_2011_logo.svg" alt="SAP Logo" height="100"/>
+</p>
 
-###
+<h1 align="center">💙 Meu Projeto SAP Fiori</h1>
 
-<p align="left">My name is ... and I'm a ..., from ....</p>
+<p align="center">
+  <b>Uma experiência limpa, responsiva e inspirada no design SAP Fiori</b>
+</p>
 
-###
+---
 
-<h2 align="left">About me</h2>
+## ✨ Visão Geral
 
-###
+Este repositório contém o desenvolvimento de aplicações **SAP Fiori** e/ou componentes relacionados ao ecossistema **SAPUI5**.  
+O objetivo é entregar interfaces simples, intuitivas e consistentes com as diretrizes do Fiori:
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+✅ Design minimalista  
+✅ Layout responsivo  
+✅ Experiência de usuário centrada em tarefas  
 
-###
+---
 
-<h2 align="left">I code with</h2>
+## 🚀 Funcionalidades
 
-###
+- 📊 Dashboard responsivo com cards Fiori
+- 📥 Upload e gerenciamento de dados
+- 🔎 Filtros e pesquisas inteligentes
+- 💾 Integração com SAP Backend (ABAP, OData)
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
-</div>
+---
 
-###
+## 🛠️ Tecnologias
+
+| Tecnologia | Descrição |
+|------------|-----------|
+| SAPUI5 | Framework base do Fiori |
+| OData | Consumo de serviços no backend |
+| ABAP | Lógica de negócio no SAP |
+| HTML5 / CSS3 | Customizações visuais |
+| GitHub | Controle de versão |
+
+---
+
+## 🎨 Aparência
+
+<img src="https://sap.github.io/ui5-tooling/images/ui5_logo_wide.png" width="400"/>
+
+> A interface segue o **SAP Fiori Design Guidelines**:  
+> botões arredondados, espaçamento generoso, cores neutras e foco no conteúdo.
+
+---
+
+## 📦 Instalação & Execução
+
+```bash
+# Clone o projeto
+git clone https://github.com/seu-usuario/seu-repo.git
+
+# Acesse a pasta
+cd seu-repo
+
+# Rodar local (exemplo com ui5-server)
+npm install
+npm run start
