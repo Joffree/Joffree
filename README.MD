@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/60/SAP_2011_logo.svg" alt="SAP Logo" height="100"/>
+  <img src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/303336357/original/ad2545e7408d688a534e25328ae279c42716b7c5/do-sap-abap-hana-development-and-consultation.png" alt="SAP Logo" height="100"/>
+   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyOijI3SbspuZQ-gAnDJ-upxx7bGLtrN1zvkO2axLIKeMHsuEQsHw3orNJes-9O9-oreU&usqp=CAU" alt="Python Logo" height="100"/>
+   <img src="https://fireworkweb.com.br/wp-content/uploads/2024/06/dotNET.png" alt="net Logo" height="100"/>
 </p>
 
-# 💙 Meu Projeto SAP Fiori
-**Interface limpa e responsiva inspirada no SAP Fiori**
 
 ---
 
